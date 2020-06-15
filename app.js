@@ -12,12 +12,6 @@ app.get('/', function(req, res, next) {
     res.render('medium1');
 });
 
-export function output(data){
-fs.writeFile('output.json', data, (err) => {  
-    if (err) throw err; 
-    })
-}
-
 app.listen(3000, function() {
     console.log('Express server listening on port 3000');
 });
