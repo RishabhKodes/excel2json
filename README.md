@@ -7,7 +7,7 @@ This is a webapp which can convert your complex Excel sheets into JSON schema. A
 
 **In the Website**, just upload the .xlsx Excel file, and you will see the JSON format converted schema as the result.
 ### Built With
-Some major frameworks that were used in creating of this project.
+Some major frameworks that were used in this project.
 * [HTML](https://html.com/)
 * [jQuery](https://jquery.com/)
 * [XLSX](https://www.npmjs.com/package/xlsx)
